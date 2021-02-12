@@ -1,0 +1,28 @@
+.login {
+  text-align: center;
+  background-color: #2e323d;
+  width: 500px;
+  margin: 60px auto;
+  border-radius: 0.5rem;
+  padding: 25px;
+  color: #d5ced9;
+
+  &__icon {
+    height: 160px;
+    width: auto;
+    border: #23262e;
+    border-radius: 50%;
+    padding-bottom: 15px;
+  }
+
+  &__links {
+    margin-top: 2.125rem;
+  }
+
+  &__link {
+    color: #d5ced9;
+    font-size: .875rem;
+    margin-bottom: .375rem;
+  }
+
+}

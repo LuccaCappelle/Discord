@@ -1,0 +1,15 @@
+{
+  "name": "sollicitatie-project",
+  "version": "1.0.0",
+  "description": "<!-- Project -->\r This project is a recreation of the Discord application but as web-app.\r The colors that will be used are the same ones from the Andromeda-extension on Visual Studio Code.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass": "node-sass -w scss/ -o css/ --recursive"
+  },
+  "author": "Lucca",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^5.0.0"
+  }
+}
